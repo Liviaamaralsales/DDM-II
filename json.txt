@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "name": "Lívia Amaral Sales Antonio",
+    "email": "livia.antonio01@gmail.com",
+    "password": "1234"
+}
